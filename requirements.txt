@@ -1,0 +1,8 @@
+requests
+beautifulsoup4
+pathvalidate
+tqdm
+selenium
+webdriver-manager
+xmltodict
+Pillow 
