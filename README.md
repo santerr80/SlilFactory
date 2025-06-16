@@ -277,7 +277,7 @@
 
 ### 2. Интерактивный режим
 ```bash
-python download_skillfactory_extended.py -u email -p password --interactive
+python main.py -u email -p password --interactive
 ```
 Позволяет:
 - Выбрать курс из списка доступных
@@ -286,7 +286,7 @@ python download_skillfactory_extended.py -u email -p password --interactive
 
 ### 3. Режим без видео
 ```bash
-python download_skillfactory_extended.py -u email -p password --no-videos
+python main.py -u email -p password --no-videos
 ```
 Скачивание только текстовых материалов без видеофайлов.
 
